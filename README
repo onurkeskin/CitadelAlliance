@@ -1,0 +1,7 @@
+# Citadel Alliance
+
+A pet non modern visual cpp project. Making use of recast&detour for navmesh generation and basic pathfinding. 
+Makes some use of boost asio.
+
+
+(I have no idea why i did this in visual cpp instead. Probably didnt have access to a linux base os. Also probably have no access to devenv (no docker for older windows) either.)

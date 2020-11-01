@@ -1,0 +1,17 @@
+D:/Projects/Citadel Alliance/RecastNavigation/build/CMakeFiles/edit_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/CMakeFiles/rebuild_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/Recast/CMakeFiles/Recast.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/Recast/CMakeFiles/edit_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/Recast/CMakeFiles/rebuild_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/Detour/CMakeFiles/Detour.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/Detour/CMakeFiles/edit_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/Detour/CMakeFiles/rebuild_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/DebugUtils/CMakeFiles/rebuild_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/DebugUtils/CMakeFiles/DebugUtils.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/DebugUtils/CMakeFiles/edit_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/DetourCrowd/CMakeFiles/rebuild_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/DetourCrowd/CMakeFiles/DetourCrowd.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/DetourCrowd/CMakeFiles/edit_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/DetourTileCache/CMakeFiles/DetourTileCache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/DetourTileCache/CMakeFiles/edit_cache.dir
+D:/Projects/Citadel Alliance/RecastNavigation/build/DetourTileCache/CMakeFiles/rebuild_cache.dir

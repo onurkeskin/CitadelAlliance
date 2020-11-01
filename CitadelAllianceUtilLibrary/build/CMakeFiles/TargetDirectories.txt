@@ -1,0 +1,3 @@
+D:/Projects/Citadel Alliance/CitadelAllianceUtilLibrary/build/CMakeFiles/UtilLibrary.dir
+D:/Projects/Citadel Alliance/CitadelAllianceUtilLibrary/build/CMakeFiles/edit_cache.dir
+D:/Projects/Citadel Alliance/CitadelAllianceUtilLibrary/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../DebugUtils/Include/DebugUtils/RecastDump.h
+
+../Recast/Include/Recast/Recast.h
+
+../Recast/Include/Recast/RecastAlloc.h
+stddef.h
+-
+
+D:/Projects/Citadel Alliance/RecastNavigation/DebugUtils/Source/RecastDump.cpp
+math.h
+-
+stdio.h
+-
+stdarg.h
+-
+string.h
+-
+Recast/Recast.h
+D:/Projects/Citadel Alliance/RecastNavigation/DebugUtils/Source/Recast/Recast.h
+Recast/RecastAlloc.h
+D:/Projects/Citadel Alliance/RecastNavigation/DebugUtils/Source/Recast/RecastAlloc.h
+DebugUtils/RecastDump.h
+D:/Projects/Citadel Alliance/RecastNavigation/DebugUtils/Source/DebugUtils/RecastDump.h
+

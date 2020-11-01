@@ -1,0 +1,100 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Detour/Include/Detour/DetourAlloc.h
+stddef.h
+-
+
+../Detour/Include/Detour/DetourAssert.h
+assert.h
+-
+
+../Detour/Include/Detour/DetourCommon.h
+Detour/DetourMath.h
+../Detour/Include/Detour/Detour/DetourMath.h
+stddef.h
+-
+
+../Detour/Include/Detour/DetourMath.h
+math.h
+-
+
+../Detour/Include/Detour/DetourNavMesh.h
+DetourAlloc.h
+../Detour/Include/Detour/DetourAlloc.h
+DetourStatus.h
+../Detour/Include/Detour/DetourStatus.h
+stdint.h
+-
+
+../Detour/Include/Detour/DetourNavMeshQuery.h
+DetourNavMesh.h
+../Detour/Include/Detour/DetourNavMesh.h
+DetourStatus.h
+../Detour/Include/Detour/DetourStatus.h
+
+../Detour/Include/Detour/DetourStatus.h
+
+../DetourCrowd/Include/DetourCrowd/DetourCrowd.h
+Detour/DetourNavMeshQuery.h
+../DetourCrowd/Include/DetourCrowd/Detour/DetourNavMeshQuery.h
+DetourCrowd/DetourObstacleAvoidance.h
+../DetourCrowd/Include/DetourCrowd/DetourCrowd/DetourObstacleAvoidance.h
+DetourCrowd/DetourLocalBoundary.h
+../DetourCrowd/Include/DetourCrowd/DetourCrowd/DetourLocalBoundary.h
+DetourCrowd/DetourPathCorridor.h
+../DetourCrowd/Include/DetourCrowd/DetourCrowd/DetourPathCorridor.h
+DetourCrowd/DetourProximityGrid.h
+../DetourCrowd/Include/DetourCrowd/DetourCrowd/DetourProximityGrid.h
+DetourCrowd/DetourPathQueue.h
+../DetourCrowd/Include/DetourCrowd/DetourCrowd/DetourPathQueue.h
+
+../DetourCrowd/Include/DetourCrowd/DetourLocalBoundary.h
+Detour/DetourNavMeshQuery.h
+../DetourCrowd/Include/DetourCrowd/Detour/DetourNavMeshQuery.h
+
+../DetourCrowd/Include/DetourCrowd/DetourObstacleAvoidance.h
+
+../DetourCrowd/Include/DetourCrowd/DetourPathCorridor.h
+Detour/DetourNavMeshQuery.h
+../DetourCrowd/Include/DetourCrowd/Detour/DetourNavMeshQuery.h
+
+../DetourCrowd/Include/DetourCrowd/DetourPathQueue.h
+Detour/DetourNavMesh.h
+../DetourCrowd/Include/DetourCrowd/Detour/DetourNavMesh.h
+Detour/DetourNavMeshQuery.h
+../DetourCrowd/Include/DetourCrowd/Detour/DetourNavMeshQuery.h
+
+../DetourCrowd/Include/DetourCrowd/DetourProximityGrid.h
+
+D:/Projects/Citadel Alliance/RecastNavigation/DetourCrowd/Source/DetourCrowd.cpp
+string.h
+-
+float.h
+-
+stdlib.h
+-
+new
+-
+DetourCrowd/DetourCrowd.h
+D:/Projects/Citadel Alliance/RecastNavigation/DetourCrowd/Source/DetourCrowd/DetourCrowd.h
+DetourCrowd/DetourObstacleAvoidance.h
+D:/Projects/Citadel Alliance/RecastNavigation/DetourCrowd/Source/DetourCrowd/DetourObstacleAvoidance.h
+Detour/DetourNavMesh.h
+D:/Projects/Citadel Alliance/RecastNavigation/DetourCrowd/Source/Detour/DetourNavMesh.h
+Detour/DetourNavMeshQuery.h
+D:/Projects/Citadel Alliance/RecastNavigation/DetourCrowd/Source/Detour/DetourNavMeshQuery.h
+Detour/DetourCommon.h
+D:/Projects/Citadel Alliance/RecastNavigation/DetourCrowd/Source/Detour/DetourCommon.h
+Detour/DetourMath.h
+D:/Projects/Citadel Alliance/RecastNavigation/DetourCrowd/Source/Detour/DetourMath.h
+Detour/DetourAssert.h
+D:/Projects/Citadel Alliance/RecastNavigation/DetourCrowd/Source/Detour/DetourAssert.h
+Detour/DetourAlloc.h
+D:/Projects/Citadel Alliance/RecastNavigation/DetourCrowd/Source/Detour/DetourAlloc.h
+

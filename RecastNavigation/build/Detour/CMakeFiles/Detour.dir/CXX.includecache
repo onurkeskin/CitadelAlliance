@@ -1,0 +1,138 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Detour/Include/Detour/DetourAlloc.h
+stddef.h
+-
+
+../Detour/Include/Detour/DetourAssert.h
+assert.h
+-
+
+../Detour/Include/Detour/DetourCommon.h
+Detour/DetourMath.h
+../Detour/Include/Detour/Detour/DetourMath.h
+stddef.h
+-
+
+../Detour/Include/Detour/DetourMath.h
+math.h
+-
+
+../Detour/Include/Detour/DetourNavMesh.h
+DetourAlloc.h
+../Detour/Include/Detour/DetourAlloc.h
+DetourStatus.h
+../Detour/Include/Detour/DetourStatus.h
+stdint.h
+-
+
+../Detour/Include/Detour/DetourNavMeshBuilder.h
+DetourAlloc.h
+../Detour/Include/Detour/DetourAlloc.h
+
+../Detour/Include/Detour/DetourNavMeshQuery.h
+DetourNavMesh.h
+../Detour/Include/Detour/DetourNavMesh.h
+DetourStatus.h
+../Detour/Include/Detour/DetourStatus.h
+
+../Detour/Include/Detour/DetourNode.h
+DetourNavMesh.h
+../Detour/Include/Detour/DetourNavMesh.h
+
+../Detour/Include/Detour/DetourStatus.h
+
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/DetourAssert.cpp
+Detour/DetourAssert.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourAssert.h
+
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/DetourCommon.cpp
+Detour/DetourCommon.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourCommon.h
+Detour/DetourMath.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourMath.h
+
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/DetourNavMesh.cpp
+float.h
+-
+string.h
+-
+stdio.h
+-
+Detour/DetourNavMesh.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourNavMesh.h
+Detour/DetourNode.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourNode.h
+Detour/DetourCommon.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourCommon.h
+Detour/DetourMath.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourMath.h
+Detour/DetourAlloc.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourAlloc.h
+Detour/DetourAssert.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourAssert.h
+new
+-
+
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/DetourNavMeshBuilder.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+float.h
+-
+Detour/DetourNavMesh.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourNavMesh.h
+Detour/DetourCommon.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourCommon.h
+Detour/DetourMath.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourMath.h
+Detour/DetourNavMeshBuilder.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourNavMeshBuilder.h
+Detour/DetourAlloc.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourAlloc.h
+Detour/DetourAssert.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourAssert.h
+
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/DetourNavMeshQuery.cpp
+float.h
+-
+string.h
+-
+Detour/DetourNavMeshQuery.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourNavMeshQuery.h
+Detour/DetourNavMesh.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourNavMesh.h
+Detour/DetourNode.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourNode.h
+Detour/DetourCommon.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourCommon.h
+Detour/DetourMath.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourMath.h
+Detour/DetourAlloc.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourAlloc.h
+Detour/DetourAssert.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourAssert.h
+new
+-
+
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/DetourNode.cpp
+Detour/DetourNode.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourNode.h
+Detour/DetourAlloc.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourAlloc.h
+Detour/DetourAssert.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourAssert.h
+Detour/DetourCommon.h
+D:/Projects/Citadel Alliance/RecastNavigation/Detour/Source/Detour/DetourCommon.h
+string.h
+-
+

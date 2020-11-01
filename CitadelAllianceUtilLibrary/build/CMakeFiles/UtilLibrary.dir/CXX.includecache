@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/Citadel Alliance/CitadelAllianceUtilLibrary/src/camathfuncs.cpp
+UtilLibrary/camathfuncs.h
+D:/Projects/Citadel Alliance/CitadelAllianceUtilLibrary/src/UtilLibrary/camathfuncs.h
+
